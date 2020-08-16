@@ -4,6 +4,9 @@
 using namespace std;
 int main(){
     int t;
+    //cin>>t;
+    
+    //gio moi cin nek
     cin>>t;
     for (int i=0;i<t;i++){
         int n;
@@ -27,4 +30,5 @@ int main(){
         if (ok) cout<<"YES\n";
         else cout<<"NO\n";
     }
+    
 }
